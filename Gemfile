@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '2.0.0', :engine => "jruby", :engine_version => "1.7.25"
 #ruby-gemset=railstutorial_rails_4_0
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
